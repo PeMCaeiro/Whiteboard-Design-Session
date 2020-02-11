@@ -82,7 +82,7 @@ Tailspin Toys is excited to learn more about how migrating to the cloud can help
 
 To assist you in better understanding their current environment, Tailspin Toys has provided the following architecture diagram of their on-premises gaming services implementation.
 
-![Current architecture diagram.](media/current-architecture.png "Current architecture")
+![Current architecture diagram.](current-architecture.png "Current architecture")
 
 ### Customer needs
 
@@ -117,7 +117,7 @@ To assist you in better understanding their current environment, Tailspin Toys h
 
 ### Infographic for common scenarios
 
-![An infographic for common scenarios is displayed.](media/common-scenario-infographic.png "Common scenario")
+![An infographic for common scenarios is displayed.](common-scenario-infographic.png "Common scenario")
 
 ## Step 2: Design a proof of concept solution
 
